@@ -12,4 +12,4 @@ exports.pingPong = function(goal) {
     }
   }
   return output;
-}
+};
