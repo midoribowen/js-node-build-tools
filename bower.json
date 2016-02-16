@@ -1,0 +1,23 @@
+{
+  "name": "ping-pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Midori Bowen <midori.p.bowen@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/midoribowen/js-node-build-tools",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.11.2"
+  }
+}
